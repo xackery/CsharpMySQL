@@ -1,0 +1,4 @@
+D:\code\csharp\MySQLCLi\MySQLCLI\MySQLCLI\bin\Release\MySQLCLI.exe
+D:\code\csharp\MySQLCLi\MySQLCLI\MySQLCLI\bin\Release\MySQLCLI.pdb
+D:\code\csharp\MySQLCLi\MySQLCLI\MySQLCLI\obj\x86\Release\MySQLCLI.exe
+D:\code\csharp\MySQLCLi\MySQLCLI\MySQLCLI\obj\x86\Release\MySQLCLI.pdb
