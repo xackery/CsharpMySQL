@@ -16,7 +16,7 @@ namespace MySQLCLI
         {
             if (connection == null)
             {
-                connection = new MySqlConnection("Server=localhost;Database=SecondLife;username=root");
+                connection = new MySqlConnection("Server=localhost;Database=test;username=root");
                 connection.Open();
             }
         }
